@@ -1,6 +1,6 @@
 <h1>👋 &nbsp;Olá, eu sou o Jean, um desenvolvedor full stack apaixonado pelo que faz!</h1>
 <p align="center">
-<a href="https://www.linkedin.com/in/jean-de-souza-morais/"><img src=https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jean-de-souza-morais/"><img src="https://img.shields.io/badge/-Jean%20de%20Souza%20Morais-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="jeandesouzamorais@gmail.com"><img src="https://img.shields.io/badge/jeandesouzamorais@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 </p>
