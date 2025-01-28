@@ -7,7 +7,7 @@
 
 
 
-<h2> 🛠 &nbsp;Tech Stack</h2> -->
+<h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
@@ -31,5 +31,5 @@
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
 ![Jean GitHub Stats](https://github-readme-stats.vercel.app/api?username=jnmorais&show_icons=true&theme=dracula)
-![Jean GitHub Languagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jnmorais&layout=compact&langs_count=7&theme=dracula")
+![Jean GitHub Languagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jnmorais&theme=dracula")
 
